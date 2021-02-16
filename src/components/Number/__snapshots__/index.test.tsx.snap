@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Number /> should be able to supply the appropriate styles 1`] = `
+Array [
+  Object {
+    "alignItems": "center",
+    "height": "80%",
+    "justifyContent": "center",
+    "width": "80%",
+  },
+  false,
+  false,
+]
+`;
+
+exports[`<Number /> should be able to supply the appropriate styles 2`] = `
+Array [
+  Object {
+    "alignItems": "center",
+    "height": "80%",
+    "justifyContent": "center",
+    "width": "80%",
+  },
+  Object {
+    "backgroundColor": "#FEEBA7",
+    "borderRadius": 5,
+  },
+  false,
+]
+`;
+
+exports[`<Number /> should be able to supply the appropriate styles 3`] = `
+Array [
+  Object {
+    "alignItems": "center",
+    "height": "80%",
+    "justifyContent": "center",
+    "width": "80%",
+  },
+  Object {
+    "backgroundColor": "#FEEBA7",
+    "borderRadius": 5,
+  },
+  Object {
+    "backgroundColor": "#7ED6BE",
+  },
+]
+`;
