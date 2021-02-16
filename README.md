@@ -1,7 +1,5 @@
 # Which? Mobile QA Exercise
 
----
-
 <img src="media/screenshot.png" align="right" width="250" />
 
 ## Getting Started
